@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "(Corneluis_Smith),(Hendry_Ihlenfeldt),(Pieter_Nel),(Tiaan_Theron)_Project/1.0.0": {
+        "runtime": {
+          "(Corneluis_Smith),(Hendry_Ihlenfeldt),(Pieter_Nel),(Tiaan_Theron)_Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "(Corneluis_Smith),(Hendry_Ihlenfeldt),(Pieter_Nel),(Tiaan_Theron)_Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
